@@ -6,7 +6,7 @@ require 'matheson_view_tool/version'
 Gem::Specification.new do |spec|
   spec.name          = "matheson_view_tool"
   spec.version       = MathesonViewTool::VERSION
-  spec.authors       = ["TODO: Write your name"]
+  spec.authors       = ["Preston Matheson"]
   spec.email         = ["pmphoto123@gmail.com"]
 
   spec.summary       = %q{Testing how to create a gem}
