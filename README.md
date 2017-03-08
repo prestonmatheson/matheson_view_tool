@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-"&copy; #{Time.now.year} | <b>#{name}</b> #{msg}".html_safe
+"&copy; #{Time.now.year} | 'Preston Matheson'; 'all rights reserved'"
 ```
 
 ## Development
